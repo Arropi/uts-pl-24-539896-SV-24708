@@ -1,0 +1,20 @@
+# Environment files
+.env
+.env.backup
+backend/.env
+frontend/.env
+frontend/.env.local
+
+# Dependencies & Build artifacts
+node_modules/
+backend/vendor/
+frontend/dist/
+
+# SQLite databases
+*.sqlite
+*.sqlite-journal
+
+# Local logs & caches
+*.log
+.phpunit.cache
+
