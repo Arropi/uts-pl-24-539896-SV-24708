@@ -18,6 +18,3 @@ frontend/dist/
 *.log
 .phpunit.cache
 
-# Project notes & local screenshots (excluded from repository commit)
-screenshot/
-panduan_dan_master_prompt_uts_kepl.md
